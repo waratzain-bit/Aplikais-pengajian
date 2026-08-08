@@ -1,0 +1,6 @@
+{
+  "name": "NgajiYuk - Belajar Mengaji & Hafalan Juz 'Amma",
+  "description": "Aplikasi belajar mengaji Iqra, tajwid interaktif, dan hafalan surah Juz 'Amma lengkap dengan audio, kuis, serta asisten AI mengaji.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
